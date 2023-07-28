@@ -1,0 +1,7 @@
+﻿{
+  "name": "$name$",
+  "version": "$version$",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "13.0.2"
+  }
+}
